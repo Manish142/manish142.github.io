@@ -1,4 +1,4 @@
 # manishkalra.github.io
 
-title: Manish's homepage
+Manish's homepage
 description: Bookmark this to keep an eye on my project updates!
