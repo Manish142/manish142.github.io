@@ -1,4 +1,4 @@
 # manishkalra.github.io
 
-Manish's homepage
-description: Bookmark this to keep an eye on my project updates!
+Description: The purpose of this site is to provide the content related to the Python Kickstart Classes. 
+Course plan: [Course_Plan.docx](https://github.com/user-attachments/files/20380945/Course_Plan.docx)
