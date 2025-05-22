@@ -1,6 +1,6 @@
 # Python Kickstart
 
-Department of **Electronics and Communication Engineering,GLA University** welcomes you to Department connect Program.\
+Department of **Electronics and Communication Engineering, GLA University** welcomes you to Department connect Program.\
 We are happy to start the **Python Connect** program to our recently admit students. The classes are going to start from 26th May, 2025.\
 
 
